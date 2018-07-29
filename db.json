@@ -31,9 +31,19 @@
       "isComplete": false
     },
     {
-      "name": "Holy Fuck",
+      "name": "Go for a walk",
       "icComplete": false,
       "id": 7
+    },
+    {
+      "name": "Call Tomasz",
+      "icComplete": false,
+      "id": 8
+    },
+    {
+      "name": "Buy milk",
+      "icComplete": false,
+      "id": 9
     }
   ]
 }

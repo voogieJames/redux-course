@@ -32,7 +32,7 @@ export const saveTodo = (name) => {
 export default (state = initState, action) => {
     switch (action.type) {
         case TODO_ADD:
-            return {...state, todos: state.todos.concat(action.payload)}
+            return {...state, currentTodo: '', todos: state.todos.concat(action.payload)}
         case TODOS_LOAD:
             return {...state, todos: action.payload}
         case CURRENT_UPDATE:
