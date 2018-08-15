@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Create Static UI",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 2,
       "name": "Create Initial State",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 3,
@@ -18,7 +18,7 @@
     {
       "id": 4,
       "name": "Wash my car",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 5,
@@ -28,12 +28,13 @@
     {
       "id": 6,
       "name": "Grow as a human being",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "name": "Go for a walk",
       "icComplete": false,
-      "id": 7
+      "id": 7,
+      "isComplete": true
     },
     {
       "name": "Call Tomasz",
@@ -43,7 +44,8 @@
     {
       "name": "Buy milk",
       "icComplete": false,
-      "id": 9
+      "id": 9,
+      "isComplete": false
     },
     {
       "name": "Finish this tutorial",
@@ -53,12 +55,14 @@
     {
       "name": "Go fishing",
       "icComplete": false,
-      "id": 11
+      "id": 11,
+      "isComplete": false
     },
     {
       "name": "Call Mom",
       "icComplete": false,
-      "id": 12
+      "id": 12,
+      "isComplete": false
     }
   ]
 }
